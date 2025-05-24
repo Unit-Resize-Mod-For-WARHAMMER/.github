@@ -1,4 +1,4 @@
-# Unit Resize Mod
+# Unit Resize Mod For Total War: WARHAMMER
 
 
 To install, simply extract the downloaded archive and run the provided EXE file.
